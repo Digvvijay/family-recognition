@@ -1,0 +1,23 @@
+body
+{
+color: rgb(0, 0, 0);
+background-image: linear-gradient(to right top, #f0b1e9, #c077f1, #777ff1, #77f1d8, #15ff00, #ffff00, #ff9900, #f13333);
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_the_objects
+{
+    color: yellow;
+}
+
+#camera
+{
+    border: 2px dashed black;
+    height: 350px;
+    width: 350px;
+}
